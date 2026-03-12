@@ -4,6 +4,7 @@
     "module": "ESNext",
     "moduleResolution": "node",
     "outDir": "./dist",
+     "jsx": "react-jsx",
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "strict": false,
