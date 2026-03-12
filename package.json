@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
-    "build": "vite build",
-    "preview": "vite preview",
+    "build": "tsc && vite build",
+    "start": "node server.js",
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit"
   },
@@ -43,6 +43,7 @@
     "@types/react-router-dom": "^5.3.3",
     "autoprefixer": "^10.4.21",
     "tailwindcss": "^4.1.14",
+    "ts-node": "^10.9.2",
     "tsx": "^4.21.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"

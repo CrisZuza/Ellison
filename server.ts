@@ -14,7 +14,7 @@ import sharp from 'sharp';
 dotenv.config();
 
 const DATA_DIR = path.join(process.cwd(), 'src/data');
-const UPLOADS_DIR = path.join(process.cwd(), 'public/uploads');
+const UPLOADS_DIR = process.env.UPLOAD_DIR || "/app/uploads";
 
 // Ensure directories exist
 async function ensureDirs() {
@@ -29,7 +29,7 @@ const upload = multer({ storage });
 
 async function startServer() {
   const app = express();
-  const PORT = 3000;
+  const PORT = process.env.PORT || 3000;
 
   app.use(cors({
     origin: true,
