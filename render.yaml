@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ellison-fullstack
+    name: ellison
     rootDir: ./
     env: node
     region: frankfurt
