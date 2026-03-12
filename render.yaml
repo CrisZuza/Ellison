@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: ellison-fullstack
+    env: node
+    buildCommand: npm install && npm run build
+    startCommand: node server.js
+    envVars:
+      - key: NODE_VERSION
+        value: 18
+    disk:
+      name: uploads
+      mountPath: /app/uploads
