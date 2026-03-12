@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Elena Ionescu",
+    "specialty": {
+      "ro": "Hair Stylist",
+      "ru": "Парикмахер-стилист"
+    },
+    "image": "https://images.unsplash.com/photo-1595959183082-7b570b7e08e2?auto=format&fit=crop&q=80&w=400&h=500"
+  },
+  {
+    "id": "2",
+    "name": "Maria Popescu",
+    "specialty": {
+      "ro": "Nail Artist",
+      "ru": "Мастер маникюра"
+    },
+    "image": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?auto=format&fit=crop&q=80&w=400&h=500"
+  },
+  {
+    "id": "3",
+    "name": "Ana Radu",
+    "specialty": {
+      "ro": "Cosmetolog",
+      "ru": "Косметолог"
+    },
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=400&h=500"
+  }
+]

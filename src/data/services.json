@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": {
+      "ro": "Manichiură",
+      "ru": "Маникюр"
+    },
+    "category": "Nails",
+    "price": 350,
+    "duration": "60 min"
+  },
+  {
+    "id": "2",
+    "name": {
+      "ro": "Pedichiură",
+      "ru": "Педикюр"
+    },
+    "category": "Nails",
+    "price": 450,
+    "duration": "90 min"
+  },
+  {
+    "id": "3",
+    "name": {
+      "ro": "Tuns Femei",
+      "ru": "Женская стрижка"
+    },
+    "category": "Hair",
+    "price": 400,
+    "duration": "60 min"
+  },
+  {
+    "id": "4",
+    "name": {
+      "ro": "Vopsit Păr",
+      "ru": "Окрашивание волос"
+    },
+    "category": "Hair",
+    "price": 800,
+    "duration": "120 min"
+  },
+  {
+    "id": "5",
+    "name": {
+      "ro": "Masaj Facial",
+      "ru": "Массаж лица"
+    },
+    "category": "Face",
+    "price": 500,
+    "duration": "45 min"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "manicure-pedicure",
+    "category": "nails",
+    "level": "beginner",
+    "durationDays": 3,
+    "hoursTotal": 18,
+    "priceMDL": 3800,
+    "languages": ["RO", "RU"],
+    "certificate": true,
+    "title": {
+      "RO": "Curs Manichiură & Pedichiură",
+      "RU": "Курс Маникюр & Педикюр"
+    },
+    "subtitle": {
+      "RO": "Tehnici esențiale, igienă profesională și practică pe modele",
+      "RU": "Базовые техники, профессиональная гигиена и практика на моделях"
+    },
+    "overview": {
+      "RO": "Program intensiv în care înveți pregătirea unghiei naturale, aplicarea corectă a gelului, forme, finisare și igienă conform standardelor.",
+      "RU": "Интенсивная программа: подготовка натуральной ногтевой пластины, правильное нанесение геля, формы, финиш и гигиенические стандарты."
+    },
+    "curriculum": {
+      "RO": [
+        "Ziua 1: Igienă, anatomia unghiei, instrumentar, pregătire naturală",
+        "Ziua 2: Tehnici gel/clasic, forme, pilire și finisare",
+        "Ziua 3: Practică pe modele, corecții, poze portofoliu"
+      ],
+      "RU": [
+        "День 1: Гигиена, анатомия ногтя, инструменты, подготовка",
+        "День 2: Техники гель/классика, формы, опил и финиш",
+        "День 3: Практика на моделях, коррекции, фото для портфолио"
+      ]
+    },
+    "whatYouLearn": {
+      "RO": ["Igienă corectă", "Pregătirea plăcii", "Aplicare gel", "Forme & finisare", "Foto portofoliu"],
+      "RU": ["Правильная гигиена", "Подготовка ногтя", "Нанесение геля", "Формы и финиш", "Фото портфолио"]
+    },
+    "whoIsFor": {
+      "RO": ["Începători", "Tehnicieni care doresc perfecționare"],
+      "RU": ["Новички", "Мастера для повышения квалификации"]
+    },
+    "cta": {
+      "RO": "Înscrie-te",
+      "RU": "Записаться"
+    },
+    "nextStartDates": ["2026-03-25", "2026-04-08"],
+    "images": ["https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&q=80&w=800", "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&fit=crop&q=80&w=800"],
+    "contact": {
+      "phone": "+373 60 000 000",
+      "whatsapp": "https://wa.me/37360000000",
+      "instagram": "https://instagram.com/ellisonbeautyroom"
+    }
+  },
+  {
+    "id": "brow-lash-lamination",
+    "category": "brows-lashes",
+    "level": "beginner",
+    "durationDays": 2,
+    "hoursTotal": 12,
+    "priceMDL": 4200,
+    "languages": ["RO", "RU"],
+    "certificate": true,
+    "title": {
+      "RO": "Curs Laminare Sprâncene & Gene",
+      "RU": "Курс Ламинирование бровей и ресниц"
+    },
+    "subtitle": {
+      "RO": "Mapare, chimie, produse și siguranță pentru rezultate impecabile",
+      "RU": "Картирование, химия, продукты и безопасность для безупречного результата"
+    },
+    "overview": {
+      "RO": "Înveți maparea sprâncenelor, compoziția formulelor, timpi, neutralizare, styling și îngrijire post‑procedură.",
+      "RU": "Освоите картирование, составы, тайминги, нейтрализацию, стайлинг и уход после процедуры."
+    },
+    "curriculum": {
+      "RO": [
+        "Ziua 1: Teorie – mapare, chimie, contraindicații, produse",
+        "Ziua 2: Practică pe modele – sprâncene și gene, styling & foto"
+      ],
+      "RU": [
+        "День 1: Теория — картирование, химия, противопоказания, продукты",
+        "День 2: Практика на моделях — брови и ресницы, стайлинг и фото"
+      ]
+    },
+    "whatYouLearn": {
+      "RO": ["Mapare sprâncene", "Timpi corecți", "Neutralizare", "Stilizare & fixare", "Îngrijire post"],
+      "RU": ["Картирование бровей", "Правильные тайминги", "Нейтрализация", "Стайлинг и фиксация", "Послеуход"]
+    },
+    "whoIsFor": {
+      "RO": ["Începători", "Cosmeticieni care vor să adauge servicii noi"],
+      "RU": ["Новички", "Косметологи, расширяющие услуги"]
+    },
+    "cta": {
+      "RO": "Înscrie-te",
+      "RU": "Записаться"
+    },
+    "nextStartDates": ["2026-03-20", "2026-04-05"],
+    "images": ["https://images.unsplash.com/photo-1522337660859-02fbefda4502?auto=format&fit=crop&q=80&w=800", "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&q=80&w=800"],
+    "contact": {
+      "phone": "+373 60 000 000",
+      "whatsapp": "https://wa.me/37360000000",
+      "instagram": "https://instagram.com/ellisonbeautyroom"
+    }
+  }
+]

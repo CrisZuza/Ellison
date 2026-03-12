@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Bodoni Moda", serif;
+  --font-sans: "DM Sans", sans-serif;
+  
+  --color-gold: #C5A059;
+  --color-gold-light: #F1E2AF;
+  --color-luxury-black: #000000;
+  --color-luxury-white: #FFFFFF;
+}
+
+@layer base {
+  body {
+    @apply bg-luxury-black text-luxury-white font-sans antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif uppercase tracking-[0.2em];
+  }
+}
+
+.luxury-blur {
+  backdrop-filter: blur(20px);
+  background: rgba(0, 0, 0, 0.85);
+}
+
+.luxury-shadow {
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.6);
+}
+
+.gold-text {
+  background: linear-gradient(135deg, #C5A059 0%, #F1E2AF 50%, #C5A059 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gold-gradient {
+  background: linear-gradient(135deg, #C5A059 0%, #F1E2AF 50%, #C5A059 100%);
+}
+
+.gold-border {
+  border-image: linear-gradient(135deg, #C5A059 0%, #F1E2AF 50%, #C5A059 100%) 1;
+}
+
+.luxury-card {
+  @apply bg-white/5 border border-white/10 backdrop-blur-sm hover:border-gold/30 transition-all duration-500;
+}
+
+.luxury-button {
+  @apply relative overflow-hidden px-8 py-4 bg-transparent border border-white/20 text-[10px] uppercase tracking-[0.4em] font-bold hover:border-gold transition-all duration-500;
+}
+
+.luxury-button-filled {
+  @apply relative overflow-hidden px-8 py-4 bg-white text-black text-[10px] uppercase tracking-[0.4em] font-bold hover:bg-gold hover:text-white transition-all duration-500;
+}
+

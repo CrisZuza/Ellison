@@ -1,0 +1,182 @@
+{
+  "ro": {
+    "nav": {
+      "about": "Despre Noi",
+      "services": "Servicii",
+      "masters": "Echipa",
+      "products": "Produse",
+      "courses": "Cursuri",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Eleganță și Frumusețe la Ellison",
+      "subtitle": "Descoperă rafinamentul în fiecare detaliu. Echipa noastră de experți te așteaptă pentru o experiență de neuitat.",
+      "cta": "Programare Online"
+    },
+    "about": {
+      "title": "Povestea Noastră",
+      "content": "La Ellison Beauty Room, credem că frumusețea este o formă de artă. De peste 5 ani, oferim servicii premium de îngrijire, combinând tehnici moderne cu produse de cea mai înaltă calitate. Misiunea noastră este să te facem să te simți încrezătoare și radiantă."
+    },
+    "services": {
+      "title": "Serviciile Noastre",
+      "book": "Rezervă"
+    },
+    "masters": {
+      "title": "Maeștrii Noștri"
+    },
+    "gallery": {
+      "title": "Galerie Foto"
+    },
+    "testimonials": {
+      "title": "Ce Spun Clienții",
+      "items": [
+        { "name": "Elena M.", "text": "Cea mai bună experiență de manichiură din oraș! Atmosferă relaxantă și profesionalism." },
+        { "name": "Andrei S.", "text": "Tunsul perfect de fiecare dată. Recomand cu încredere echipa Ellison." },
+        { "name": "Maria V.", "text": "Produsele lor sunt magice. Tenul meu arată mult mai bine acum." }
+      ]
+    },
+    "products": {
+      "title": "Produse Recomandate",
+      "buy": "Cumpără"
+    },
+    "courses": {
+      "pageTitle": "Cursuri ÉLLISON",
+      "intro": "Programe premium cu certificare — te învățăm standardele casei ÉLLISON.",
+      "duration": "Durată",
+      "hours": "Ore",
+      "days": "Zile",
+      "price": "Preț",
+      "language": "Limbă",
+      "level": "Nivel",
+      "certificate": "Certificat la final",
+      "nextStarts": "Următoarele grupe",
+      "learn": "Ce vei învăța",
+      "curriculum": "Curriculum",
+      "who": "Pentru cine",
+      "enroll": "Înscriere",
+      "details": "Detalii curs",
+      "back": "Înapoi la cursuri",
+      "contact": "Contact"
+    },
+    "booking": {
+      "title": "Programare Nouă",
+      "step1": "Serviciu",
+      "step2": "Specialist",
+      "step3": "Dată și Oră",
+      "step4": "Confirmare",
+      "name": "Nume Complet",
+      "phone": "Număr de Telefon",
+      "service": "Selectează Serviciul",
+      "master": "Selectează Specialistul",
+      "date": "Selectează Data",
+      "time": "Selectează Ora",
+      "next": "Continuă",
+      "back": "Înapoi",
+      "submit": "Confirmă Programarea",
+      "sending": "Se trimite…",
+      "success": "Programare trimisă! Vă contactăm în scurt timp.",
+      "error": "A apărut o eroare. Încercați din nou."
+    },
+    "contact": {
+      "title": "Contactează-ne",
+      "hours": "Program de Lucru",
+      "weekdays": "Luni - Vineri",
+      "weekend": "Sâmbătă - Duminică",
+      "follow": "Urmărește-ne"
+    },
+    "footer": {
+      "address": "Strada Exemplu 123, Chișinău",
+      "rights": "Toate drepturile rezervate."
+    }
+  },
+  "ru": {
+    "nav": {
+      "about": "О Нас",
+      "services": "Услуги",
+      "masters": "Команда",
+      "products": "Товары",
+      "courses": "Курсы",
+      "contact": "Контакты"
+    },
+    "hero": {
+      "title": "Элегантность и Красота в Ellison",
+      "subtitle": "Откройте для себя изысканность в каждой детали. Наша команда экспертов ждет вас для незабываемого опыта.",
+      "cta": "Онлайн Запись"
+    },
+    "about": {
+      "title": "Наша История",
+      "content": "В Ellison Beauty Room мы верим, что красота — это форма искусства. Уже более 5 лет мы предоставляем услуги премиум-класса, сочетая современные техники с продуктами высочайшего качества. Наша миссия — сделать так, чтобы вы чувствовали себя уверенно и сияюще."
+    },
+    "services": {
+      "title": "Наши Услуги",
+      "book": "Записаться"
+    },
+    "masters": {
+      "title": "Наши Мастера"
+    },
+    "gallery": {
+      "title": "Фотогалерея"
+    },
+    "testimonials": {
+      "title": "Отзывы Клиентов",
+      "items": [
+        { "name": "Елена М.", "text": "Лучший маникюр в городе! Расслабляющая атмосфера и профессионализм." },
+        { "name": "Андрей С.", "text": "Идеальная стрижка каждый раз. С уверенностью рекомендую команду Ellison." },
+        { "name": "Мария В.", "text": "Их продукты просто волшебны. Моя кожа теперь выглядит намного лучше." }
+      ]
+    },
+    "products": {
+      "title": "Рекомендуемые Товары",
+      "buy": "Купить"
+    },
+    "courses": {
+      "pageTitle": "Курсы ÉLLISON",
+      "intro": "Премиальные программы с сертификатом — обучаем стандартам дома ÉLLISON.",
+      "duration": "Длительность",
+      "hours": "Часы",
+      "days": "Дней",
+      "price": "Цена",
+      "language": "Язык",
+      "level": "Уровень",
+      "certificate": "Сертификат по окончании",
+      "nextStarts": "Ближайшие наборы",
+      "learn": "Чему научитесь",
+      "curriculum": "Учебный план",
+      "who": "Кому подойдет",
+      "enroll": "Записаться",
+      "details": "Подробнее о курсе",
+      "back": "Назад к курсам",
+      "contact": "Контакт"
+    },
+    "booking": {
+      "title": "Новая Запись",
+      "step1": "Услуга",
+      "step2": "Специалист",
+      "step3": "Дата и Время",
+      "step4": "Подтверждение",
+      "name": "Полное Имя",
+      "phone": "Номер Телефона",
+      "service": "Выберите Услугу",
+      "master": "Выберите Специалиста",
+      "date": "Выберите Дату",
+      "time": "Выберите Время",
+      "next": "Далее",
+      "back": "Назад",
+      "submit": "Подтвердить Запись",
+      "sending": "Отправляется…",
+      "success": "Запись отправлена! Мы свяжемся с вами в ближайшее время.",
+      "error": "Произошла ошибка. Попробуйте еще раз."
+    },
+    "contact": {
+      "title": "Свяжитесь с нами",
+      "hours": "Часы Работы",
+      "weekdays": "Понедельник - Пятница",
+      "weekend": "Суббота - Воскресенье",
+      "follow": "Подписывайтесь"
+    },
+    "footer": {
+      "address": "Улица Пример 123, Кишинев",
+      "rights": "Все права защищены."
+    }
+  }
+}
