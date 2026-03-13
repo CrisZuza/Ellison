@@ -29,7 +29,8 @@ const upload = multer({ storage });
 
 async function startServer() {
   const app = express();
-  const PORT = process.env.PORT || 3000;
+  const PORT = Number(process.env.PORT) || 3000;
+server.listen(PORT, () => { ... });
 
   app.use(cors({
     origin: true,
