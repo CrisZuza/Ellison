@@ -5,15 +5,18 @@ services:
     env: node
     region: frankfurt
     buildCommand: |
-      cd ./
       npm install
       npm run build
-    startCommand: node server.js
+    # Change: Point to the compiled file in the dist folder
+    startCommand: node dist/server.js 
     envVars:
       - key: NODE_VERSION
         value: 18
       - key: UPLOAD_DIR
         value: /app/uploads
+      # Important: Do NOT set NODE_ENV=production here, 
+      # Render does it automatically at runtime.
     disk:
       name: uploads
       mountPath: /app/uploads
+      sizeGB: 1
