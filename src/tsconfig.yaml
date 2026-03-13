@@ -6,7 +6,7 @@
     "outDir": "./dist",
     "jsx": "react-jsx",
     "allowImportingTsExtensions": true, 
-    "noEmit": true, // Vite handles the emitting, so tsc only checks types
+    "noEmit": false, // Vite handles the emitting, so tsc only checks types
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "strict": false,
