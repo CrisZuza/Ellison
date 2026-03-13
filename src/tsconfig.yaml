@@ -1,12 +1,12 @@
 {
   "compilerOptions": {
     "target": "ES2020",
-    "module": "NodeNext",
-    "moduleResolution": "NodeNext",
+    "module": "ESNext",
+    "moduleResolution": "Bundler", // <--- THIS IS THE KEY FIX
     "outDir": "./dist",
     "jsx": "react-jsx",
-    "allowImportingTsExtensions": true,
-    "noEmit": true,
+    "allowImportingTsExtensions": true, 
+    "noEmit": true, // Vite handles the emitting, so tsc only checks types
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "strict": false,
